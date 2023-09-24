@@ -1,0 +1,7 @@
+*.lock
+*-lock.json
+*.env
+**/*.DS_store
+.parcel-cache
+node_modules
+dist
