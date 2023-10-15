@@ -1,9 +1,8 @@
 import React from 'react';
 
-const ExecutableStats = () => {
-    return (
-        <p>Configured payments list</p>
-    );
+// TODO
+const ExecutableStats = ({ allExecutablesForTenant }) => {
+    return <></>;
 };
 
 export default ExecutableStats;

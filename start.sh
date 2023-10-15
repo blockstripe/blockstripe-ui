@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CONTRACT_DIRECTORY=../smart-contracts
+# CONTRACT_DIRECTORY=../smart-contracts
 DEV_ACCOUNT_FILE=".env"
 
 start () {

@@ -11,6 +11,12 @@
 
 .executable-configurator-form { }
 
+.wallet-selector {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 .text-selected {
     text-decoration: underline;
 }

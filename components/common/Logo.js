@@ -3,10 +3,7 @@ function Logo(htmlId) {
     let logo = document.getElementById('logo-canvas');
 
     if (!!logo) {
-        console.log('logo already added!');
-
-        main(logo);
-
+        // main(logo);
         return;
     }
 
